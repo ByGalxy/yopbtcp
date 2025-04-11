@@ -39,10 +39,6 @@ This is a virus program for Windows programs that has both splitting and stutter
 
 就会很快的导致电脑卡顿，最后黑屏（我希望的效果是这样的）
 
-# 下载
-
-[bsgit user="ByGalxy"]yopbtcp[/bsgit]
-
 # English
 I have been studying in the server room recently. However, I noticed that the shut-off speed of the server computers is slow and they need to be turned off completely before we can leave.
 
@@ -68,6 +64,3 @@ For example: 1 becomes 2, 2 becomes 4, 4 becomes 16... et cetera. In any case, i
 At the same time, it displays the image "small black tower" and "big Anba". 
 
 In this kind of operation, the computer will quickly become unresponsive, eventually showing a black screen (I hope that is the effect I want).
-
-# Download
-[bsgit user="ByGalxy"]yopbtcp[/bsgit]
